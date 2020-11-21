@@ -2,7 +2,7 @@
 
 mushroom pepperfry is a very tasty and yummy and a healthy dish and it will keep u energetic!
 
-So to make this yummy dish you will need:
+So to make this yummy dish the following ingredients are needed..
 ## Ingredients:
  1. mushroom(1packet)
  2. 1 Big Onion
@@ -13,3 +13,8 @@ So to make this yummy dish you will need:
  7. salt to taste
  8. 1 tsp ginger garlic paste
  9. 1 tablespoon oil(cooking oil)
+
+Let's start making mushroom pepperfry!
+## Method
+Step 1: Cut onion and tomato and keep aside.
+
